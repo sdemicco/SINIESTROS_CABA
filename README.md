@@ -72,7 +72,7 @@ Un punto a tener en cuenta es que si bien el Barrio Flores posee la mayor cantid
 
 El KPI de reducción de tasa de accidentes viales semestral es ampliamente superado. El KPI objetivo es de un 10% de reducción y se tiene un valor de 23,64%.
 
-![KPI1](URL_de_la_imagen)
+![KPI1](assets/KPI_1.png)
 
 #### PARTE 2: 
 
