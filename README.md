@@ -143,7 +143,7 @@ Este analisis presenta un fuerte punto de focalizacion de esfuerzo de mejora dir
 <img src="assets/evolución_c_a_index.png" alt="c_a_index" width="600" height="200" /> 
  <br>
 
-Este indice presenta una tendencia de baja con el tiempo y puede Se puede observarse que el procentaje de reducción del C_A_index supera el propuesto por un 5%.
+Este indice presenta una tendencia de baja con el tiempo y puede observarse que el procentaje de reducción del C_A_index tomo un valor de 35% superando el valor de 30% propuesto.
 
 <p align="center">
 <img src="assets/KPI_c_a_index.png" alt="kpi_c_a_index" width="230" height="160" /> 
