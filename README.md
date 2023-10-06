@@ -49,7 +49,7 @@ El análisis de las variables categóricas se realizó a partir de gráficos de 
 
 
 ### 3. Proyecto de Analisis de datos
-
+![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badge)
 ***
 #### PARTE 1:
 ***
