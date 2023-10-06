@@ -29,7 +29,7 @@ https://data.buenosaires.gob.ar/dataset/barrios
 
 ### 2.	Analisis exploratorio de datos:
 
-Los datos de Homicidios viales tenían una buena calidad, no presentaban valores duplicados ni nulos. Contenían una categoría SD para los registros ‘sin dato’, los cuales representaban una proporción muy baja respecto a la totalidad de datos. En algunos casos se pudieron corregir valores que no tenían sentido utilizando la información de datos de otras columnas.
+Los datos de Homicidios viales tenían una buena calidad, no presentaban valores duplicados ni nulos. Contenían una categoría SD para los registros ‘sin dato’, los cuales representaban una proporción muy baja respecto a la totalidad de datos. En algunos casos se pudieron corregir valores utilizando la información de datos de otras columnas.
 Se eliminaron del conjunto de datos las columnas que no aportaban valor al análisis, ya sea por presentar pocos valores o información redundante. 
 Se utilizó el dataset barrios.csv para poder asignarle el barrio a cada dirección de accidente y poder trabajar a nivel un poco más detallado que la comuna.
 El análisis de las variables categóricas se realizó a partir de gráficos de frecuencia pudiendo encontrarse algunas relaciones importantes:
@@ -43,9 +43,6 @@ El análisis de las variables categóricas se realizó a partir de gráficos de 
   * El rol de las victimas predominante es el del conductor seguido por peatón.
   * El sexo masculino prevalece sobre el femenino en las vitimas fatales.
 
-### KPI
-
-
 
 ### Proyecto de Analisis de datos
 ***
@@ -53,6 +50,8 @@ El proyecto de análisis de datos puede dividirse en tres partes:
 #### 1) PARTE 1: Información de tendencia de homicidios en el tiempo, ubicación homicidios, tipo de calle, día de la semana y rango horario de los homicidios. <br>
 KPI_TASA_ACCIDENTES: Reducción en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior.
 Siendo: Tasa de homicidios en siniestros viales al número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico, en este caso se toman 6 meses.
+
+
 
 
 
