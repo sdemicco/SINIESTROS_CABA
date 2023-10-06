@@ -71,9 +71,8 @@ Un punto a tener en cuenta es que si bien el Barrio Flores posee la mayor cantid
 ![Evolucion de victimas por accidente de peatones BARRIO Flores](assets/cantidad_peatones_flores.png)
 
 El KPI de reducción de tasa de accidentes viales semestral es ampliamente superado. El KPI objetivo es de un 10% de reducción y se tiene un valor de 23,64%.
-
-![KPI1](assets/KPI_1.png)
-
+<br>
+<img src="assets/KPI_1.png" alt="Texto alternativo" width="200" height="130" />
 #### PARTE 2: 
 
 Evolución de cantidad de accidentes discriminado por víctima, tipo de vehículo acusado en el siniestro e información de las victimas tal como el sexo y el rango etario.
