@@ -130,10 +130,15 @@ De este primer análisis se desprende que la cantidad de colectivos y camiones q
 <br>
 Se define el siguiente KPI para seguimiento:<br>
 <br>
-**Reducción del 30% del índice_colectivo_auto (C_A_index):**
-Donde el indice colectivos_autos (C_A_index) se define como el cociente entre la tasa de accidentes de colectivos y la tasa de accidentes de autos.  
-Tasa de accidentes de autos= accidentes causados por autos/ total autos
-Tasa de accidentes de colectivos= accidentes causados por colectivos/ total colectivos
+**Reducción del 30% del índice_colectivo_auto (C_A_index):**<br>
+Donde el indice colectivos_autos (C_A_index) se define como:<br>
+C_A_index =  tasa de accidentes de colectivos/la tasa de accidentes de autos.  
+* Tasa de accidentes de autos= accidentes causados por autos/ total autos.<br>
+* Tasa de accidentes de colectivos= accidentes causados por colectivos/ total colectivos.*
+<p align="center">
+<img src="assets/evolución_c_a_index.png" alt="c_a_index" width="600" height="200" /> 
+ <br>
+
 
 El valor , lo cual significa que la tasa de accidentes por colectivos es 20 mayor a la tasa de accidentes de autos. 
 
