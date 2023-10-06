@@ -55,21 +55,20 @@ Esta sección cuenta con información de tendencia de homicidios en el tiempo, u
 
 *nota: Definimos a la tasa de homicidios en siniestros viales como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico. Su fórmula es: (Número de homicidios en siniestros viales / Población total) * 100,000*
 
-![Evolucion de victimas con el tiempo](assets/cantidad_de_victimas.png)
-![Evolucion de victimas con el tiempo](cantidad_victimas_flores.png)
-![Evolucion de victimas con el tiempo](assets/cantidad_de_victimas_peaton_flores.png)
-
 En el gráfico de homicidios por semestre, se observa una tendencia de reducción de accidentes desde el 2016 al 2021. Es importante mencionar que durante el periodo estudiado, durante 2020 ocurrió la pandemia por COVID. Durante ese año bajo fuertemente la circulación de personas en la ciudad , tanto peatones como motorizadas. Luego en 2021, la situación no vuelve a ser la misma que pre_pandemia ya que se instala el hábito del trabajo home-office. 
+
+![Evolucion de victimas con el tiempo](assets/cantidad_de_victimas.png)
+
 
 El Barrio de Flores presentó la mayor cantidad de accidentes ocurridos en los últimos 3 años, seguido por los barrios de Palermo y Balvanera y Belgrano
 En Flores y Palermo el porcentaje de ocurrencia estos accidentes en Avenidas es superior al 95%. En cambio este porcentaje disminuye a un 50% para los Barrios de Balvanera y Belgrano. 
 Con respecto al horario de ocurrencia de accidentes, se observa que en horario entre los 7 a 9 hs ocurren más accidentes que en el resto de los horarios, lo cual puede estar asociado ser hora de circulación pico.
 
 Un punto a tener en cuenta es que si bien el Barrio Flores posee la mayor cantidad de accidentes en el periodo estudiado, también muestra un fuerte decrecimiento de los mismos a partir del segundo trimestre del año 2018.  Analizando particularmente a las victimas peatones, se puede notar que Flores pasó de ser el Barrio con mayor cantidad de homicidios de peatones en los años de 2016, 2017 q 2018 a no tener víctimas peatones en 2021. Esta tendencia es previa a la pandemia. Por lo tanto es recomendable estudiar las medidas que se tomaron en dicho Barrio y replicarlas en otras zonas. 
-
-![Evolucion de victimas por accidente BARRIO Flores](URL_de_la_imagen)
-![Evolucion de victimas por accidente de peatones BARRIO Flores](URL_de_la_imagen)
-
+- Cantidad de victimas en barrio Flores<br>
+![Evolucion de victimas por accidente BARRIO Flores](cantidad_victimas_flores.png)<br>
+- Cantidad de victimas peatones en barrio Flores <br>
+![Evolucion de victimas por accidente de peatones BARRIO Flores](assets/cantidad_peatones_flores.png)
 
 El KPI de reducción de tasa de accidentes viales semestral es ampliamente superado. El KPI objetivo es de un 10% de reducción y se tiene un valor de 23,64%.
 
