@@ -79,11 +79,12 @@ El KPI de reducción de tasa de accidentes viales semestral es ampliamente super
 #### PARTE 2: 
 ***
 
-En las sgunda parte del proyecto se muestran gráficos de evolución de cantidad de muertes discriminado por tipo de víctima (moto, peatón, etc).  También se muestra el tipo de vehículo acusado en el siniestro. Finalmente se complementa el análisis con información de las victimas tal como el sexo y el rango etario.
+Esta sección cuenta con información de  gráficos de evolución de cantidad de muertes discriminado por tipo de víctima (moto, peatón, etc).  También se muestra el tipo de vehículo acusado en el siniestro. Finalmente se complementa el análisis con información de las victimas tal como el sexo y el rango etario.<br>
 <br>
-Se reliza el seguimiento del indicador de rendimiento clave, KIP definido como :
-**Reducción de en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior**
-*nota: Definimos a la cantidad de accidentes mortales de motociclistas en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal. Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100*
+Se reliza el seguimiento del indicador de rendimiento clave, KIP definido como :<br>
+**Reducción de en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior**<br>
+<br>
+*nota: Definimos a la cantidad de accidentes mortales de motociclistas en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal. Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100* <br>
 <br>
 Las principales víctimas fatales de accidentes de tránsito son los peatones y  motociclistas. En tercer puesto se encuentran los autos. Se observa que esta relación se mantuvo en todo el periodo estudiado.
 <br>
