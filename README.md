@@ -89,11 +89,14 @@ Se reliza el seguimiento del indicador de rendimiento clave, KIP definido como :
 Las principales víctimas fatales de accidentes de tránsito son los peatones y  motociclistas. En tercer puesto se encuentran los autos. Se observa que esta relación se mantuvo en todo el periodo estudiado.
 <br>
 
-
-Al analizar cada categoría por separado puse observarse que hay una tendencia a la baja de accidentes de tránsito para todas las categorías de victimas pero es más marcada en los peatones. 
+![Evolucion de victimas con el tiempo](assets/muertes_tipo_victima.png)
+<>br
+Al analizar cada categoría por separado puse observarse que hay una tendencia a la baja de accidentes de tránsito para todas las categorías de victimas pero es más marcada en los peatones. <br>
 En el caso de las victimas motociclistas la tendencia general es de baja en el periodo 2016-2021, Sin embargo en el último año hubo una tendencia de subida. Este comportamiento pude verse reflejado en el no cumplimiento del KPI el cual muestra que hubo un incremento relativo de un 64,29% de victimas de moto en 2021 respecto al año 2020.  Esto es esperable ya que  la cantidad de víctimas en 2020 se vio afectada por la disminución abrupta de circulación en las calles por motivo de la pandemia.
- Teniendo en cuenta todo el periodo de datos analizado, se observa que predominan las victimas de sexo masculino, representando un 87% de total de víctimas.
-Esta porcentaje se ve reducido para as victimas peatones que posee un porcentaje más equilibrado entre sexos del 61%.  Esto puede tener origen en que la proporción de hombres circulando en autos y motos es superior a la de mujeres. No ocurre los mismo con los peatones. 
+Teniendo en cuenta todo el periodo de datos analizado, se observa que predominan las victimas de sexo masculino, representando un 87% de total de víctimas.<br> 
+
+
+Este porcentaje se ve reducido para as victimas peatones que posee un porcentaje más equilibrado entre sexos del 61%.  Esto puede tener origen en que la proporción de hombres circulando en autos y motos es superior a la de mujeres. No ocurre los mismo con los peatones. 
 
 Finalmente se observa que el top 3 de vehículos acusados de cometer homicidios son autos, transporte de pasajeros y transporte de cargas.
 Es importante destacar que la cantidad de accidentes muertes por Autos es similiar a la de los colectivos y transporte de cargas.  Sin embargo las proporciones entre estos vehículos es muy diferente, de este análisis surge el tercer KPI.
