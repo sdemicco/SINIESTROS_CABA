@@ -51,6 +51,7 @@ El proyecto de análisis de datos puede dividirse en tres partes:
 KPI_TASA_ACCIDENTES: Reducción en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior.
 Siendo: Tasa de homicidios en siniestros viales al número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico, en este caso se toman 6 meses.
 
+![graficos](URL_de_la_imagen)
 
 
 
