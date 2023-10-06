@@ -42,7 +42,7 @@ El análisis de las variables categóricas se realizó a partir de gráficos de 
   * En las avenidas ocurren la mayor cantidad de accidentes fatales.
   * El Barrio Flores presenta una cantidad de accidentes fatales superior al resto de los barrios de CABA.
   * Las principales víctimas son los motociclistas, seguido por los peatones.
-  * Los principales acusado son los autos,  seguidos por los  vehículos de transporte de pasajeros y luego transporte de cargas.
+  * Los principales acusados son los autos,  seguidos por los  vehículos de transporte de pasajeros y luego transporte de cargas.
   * Hay  una tendencia de baja de accidentes fatales con los años.
   * El mes de diciembre presenta la mayor cantidad de accidentes fatales.
   * El rol de las victimas predominante es el del conductor seguido por peatón.
@@ -65,7 +65,7 @@ En el gráfico de homicidios por semestre, se observa una tendencia de reducció
 ![Evolucion de victimas con el tiempo](assets/cantidad_de_victimas.png)
 
 
-El Barrio de Flores presentó la mayor cantidad de accidentes ocurridos en los últimos 3 años, seguido por los barrios de Palermo y Balvanera y Belgrano
+El Barrio de Flores presentó la mayor cantidad de accidentes ocurridos en los últimos 3 años, seguido por los barrios de Palermo y Balvanera y Belgrano.
 En Flores y Palermo el porcentaje de ocurrencia estos accidentes en Avenidas es superior al 95%. En cambio este porcentaje disminuye a un 50% para los Barrios de Balvanera y Belgrano. 
 Con respecto al horario de ocurrencia de accidentes, se observa que en horario entre los 7 a 9 hs ocurren más accidentes que en el resto de los horarios, lo cual puede estar asociado ser hora de circulación pico.
 
@@ -98,7 +98,7 @@ Las principales víctimas fatales de accidentes de tránsito son los peatones y 
 <img src="assets/muertes_tipo_victima.png" alt="victimas_tipo" width="450" height="360" /> 
  <br>
  
-Al analizar cada categoría por separado puse observarse que hay una tendencia a la baja de accidentes de tránsito para todas las categorías de victimas pero es más marcada en los peatones. <br>
+Al analizar cada categoría por separado puse observarse que hay una tendencia a la baja de homicidios para todas las categorías de victimas pero es más marcada en los peatones. <br>
 En el caso de las victimas motociclistas la tendencia general es de baja en el periodo 2016-2021. Sin embargo en el último año hubo una tendencia de subida. Este comportamiento pude verse reflejado en el no cumplimiento del KPI el cual muestra que hubo un incremento relativo de un 64,29% de victimas de moto en 2021 respecto al año 2020.  
 
 <p align="center">
@@ -110,7 +110,7 @@ Esto es esperable ya que  la cantidad de víctimas en 2020 se vio afectada por l
 Teniendo en cuenta todo el periodo de datos analizado, se observa que predominan las victimas de sexo masculino, representando un 87% de total de víctimas.<br> 
 
 
-Este porcentaje se ve reducido para as victimas peatones que posee un porcentaje más equilibrado entre sexos del 61%.  Esto puede tener origen en que la proporción de hombres circulando en autos y motos es superior a la de mujeres. No ocurre los mismo con los peatones. 
+Este porcentaje se ve reducido para las victimas peatones que posee un porcentaje más equilibrado entre sexos del 61%.  Esto puede tener origen en que la proporción de hombres circulando en autos y motos es superior a la de mujeres. No ocurre los mismo con los peatones. 
 
 Finalmente se observa que el top 3 de vehículos acusados de cometer homicidios son autos, transporte de pasajeros y transporte de cargas.
 Es importante destacar que la cantidad de accidentes muertes por Autos es similiar a la de los colectivos y transporte de cargas.  Sin embargo las proporciones entre estos vehículos es muy diferente, de este análisis surge el tercer KPI.
@@ -142,8 +142,8 @@ C_A_index =  tasa de accidentes de colectivos/la tasa de accidentes de autos.
 *Tasa de accidentes de autos= accidentes causados por autos/ total autos.<br>*
 *Tasa de accidentes de colectivos= accidentes causados por colectivos/ total colectivos.*<br>
 <br>
-En el siguiente gráfico se muestra la evolución de C_A_index en el preíodo estudiado.
-El valor promedio de C_A_index en todo el periodo es aproximadamente 20, lo cual indicaria que la canitdad de muertes por colectivos sobre el total de colectivos es 20 veces mayor a la cantidad de muertes que genera un auto sobre el total de autos circulando.
+En el siguiente gráfico se muestra la evolución de C_A_index en el periodo estudiado.
+El valor promedio de C_A_index en todo el periodo es aproximadamente 20, lo cual indicaria que la cantidad de muertes por colectivos sobre el total de colectivos es 20 veces mayor a la cantidad de muertes que genera un auto sobre el total de autos circulando.
 Este analisis presenta un fuerte punto de focalizacion de esfuerzo de mejora direccinado al transporte de pasajeros. 
 <p align="center">
 <img src="assets/evolución_c_a_index.png" alt="c_a_index" width="600" height="200" /> 
@@ -169,4 +169,3 @@ Este indice presenta una tendencia de baja con el tiempo y puede observarse que 
 
 * Cumplimiento de KPIs: El informe muestra que se han cumplido los indicadores de rendimiento clave (KPIs) relacionados con la tasa de accidentes por habitante y el relacionado con la reducción del indicador C_A_index. Sin embargo no se cumplio el KPI relacionado con la reducción accidentes mortales de motociclistas.
 
-.
