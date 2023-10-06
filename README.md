@@ -43,12 +43,11 @@ El análisis de las variables categóricas se realizó a partir de gráficos de 
   * El sexo masculino prevalece sobre el femenino en las vitimas fatales.
 
 
-### Proyecto de Analisis de datos
+### 3. Proyecto de Analisis de datos
+
 ***
-El proyecto de análisis de datos puede dividirse en tres partes:
-
 #### PARTE 1:
-
+***
 Esta sección cuenta con información de tendencia de homicidios en el tiempo, ubicación homicidios, tipo de calle, día de la semana y rango horario de los homicidios y el seguimiento del siguiente KPI:
 
 **Reducción en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior**
@@ -72,11 +71,15 @@ Un punto a tener en cuenta es que si bien el Barrio Flores posee la mayor cantid
 
 El KPI de reducción de tasa de accidentes viales semestral es ampliamente superado. El KPI objetivo es de un 10% de reducción y se tiene un valor de 23,64%.
 <br>
-<img src="assets/KPI_1.png" alt="Texto alternativo" width="200" height="130" />
-#### PARTE 2: 
+<p align="center">
+<img src="assets/KPI_1.png" alt="Texto alternativo" width="250" height="160" /> 
+ <br>
 
-Evolución de cantidad de accidentes discriminado por víctima, tipo de vehículo acusado en el siniestro e información de las victimas tal como el sexo y el rango etario.
-En las sgunda parte del proyecto se muestran gráficos de evolución de cantidad de accidentes discriminado por víctima.  También se muestra el tipo de vehículo acusado en el siniestro. Finalmente se complementa el análisis con información de las victimas tal como el sexo y el rango etario.
+***
+#### PARTE 2: 
+***
+
+En las sgunda parte del proyecto se muestran gráficos de evolución de cantidad de muertes discriminado por tipo de víctima (moto, peatón, etc).  También se muestra el tipo de vehículo acusado en el siniestro. Finalmente se complementa el análisis con información de las victimas tal como el sexo y el rango etario.
 Las principales víctimas fatales de accidentes de tránsito son los peatones y  motociclistas. En tercer puesto se encuentran los autos. Se observa que esta relación se mantuvo en todo el periodo estudiado.
 Se propone el indicador de rendimiento clave, KIP definido como :
 Reduccion en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior
@@ -90,9 +93,9 @@ Esta porcentaje se ve reducido para as victimas peatones que posee un porcentaje
 Finalmente se observa que el top 3 de vehículos acusados de cometer homicidios son autos, transporte de pasajeros y transporte de cargas.
 Es importante destacar que la cantidad de accidentes muertes por Autos es similiar a la de los colectivos y transporte de cargas.  Sin embargo las proporciones entre estos vehículos es muy diferente, de este análisis surge el tercer KPI.
 
-
+***
 #### PARTE 3: 
-
+***
 El tercer KPI buscar establecer un objetivo  sobre la cantidad de muertes causados  por tipo de vehículo en relación a la cantidad total de vehículos que circulan de este tipo. 
 Por ejemplo en análisis anteriores vimos que la cantidad absoluta de muertes provocadas  por autos fue de 204,  de colectivos 172 y 146 por transporte de cargas. Se encuentras todas en el mismo orden de magnitud.
 Sin embargo la cantidad de autos que circulan es diferente a los colectivos y camiones de carga. 
