@@ -119,12 +119,12 @@ Sin embargo la cantidad de autos que circulan es diferente a los colectivos y ca
 <br>
 Para poder abordar este análisis se utilizó el dataset que contiene información de conteo de tipo vehículos en diferentes cruces de calles en CABA, en los años 2018 y 2019.  
 
+<p align="center">
+<img src="assets/puntos_conteo.png" alt="conteo" width="600" height="200" /> 
+ <br>
 
-
-
-
-
-Promediando todos los puntos de medición y los años se obtiene que la cantidad de autos por colectivo es de 24,42, mientras la cantidad de autos por camion de carga es de 172.
+Promediando todos los puntos de medición y los años se obtiene que la cantidad de autos por colectivo es de 24,42, mientras la cantidad de autos por camion de carga es de 172.<br>
+<br>
 De este primer análisis se desprende que la cantidad de colectivos y camiones que generan muertes con relación a sus totales circulando es significativamente mayor a la de autos.
 <br>
 Se define el siguiente KPI para seguimiento:
