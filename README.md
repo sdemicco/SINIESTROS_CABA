@@ -34,7 +34,7 @@ Se eliminaron del conjunto de datos las columnas que no aportaban valor al anál
 Se utilizó el dataset barrios.csv para poder asignarle el barrio a cada dirección de accidente y poder trabajar a nivel un poco más detallado que la comuna.
 El análisis de las variables categóricas se realizó a partir de gráficos de frecuencia pudiendo encontrarse algunas relaciones importantes:
   * En las avenidas ocurren la mayor cantidad de accidentes fatales.
-  * El Barrio Flores presenta una cantidad de accidentes fatales superior al resto de los barrios de CABA+
+  * El Barrio Flores presenta una cantidad de accidentes fatales superior al resto de los barrios de CABA.
   * La mayor cantidad de homicidios se da para el choque entre vehículos de transporte de pasajeros y peatones.
   * Las principales víctimas son los motociclistas, seguido por los peatones.
   * Los principales acusado son los autos,  seguidos por los  vehículos de transporte de pasajeros y luego transporte de cargas.
