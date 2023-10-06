@@ -47,11 +47,13 @@ El análisis de las variables categóricas se realizó a partir de gráficos de 
 ***
 El proyecto de análisis de datos puede dividirse en tres partes:
 
-## PARTE 1: 
+#### PARTE 1:
 
-Información de tendencia de homicidios en el tiempo, ubicación homicidios, tipo de calle, día de la semana y rango horario de los homicidios. <br>
-KPI_TASA_ACCIDENTES: Reducción en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior.
-Siendo: Tasa de homicidios en siniestros viales al número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico, en este caso se toman 6 meses.
+Esta sección cuenta con información de tendencia de homicidios en el tiempo, ubicación homicidios, tipo de calle, día de la semana y rango horario de los homicidios y el seguimiento del siguiente KPI:
+
+**Reducción en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior**
+
+*nota: Definimos a la tasa de homicidios en siniestros viales como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico. Su fórmula es: (Número de homicidios en siniestros viales / Población total) * 100,000*
 
 ![Evolucion de victimas con el tiempo](URL_de_la_imagen)
 
