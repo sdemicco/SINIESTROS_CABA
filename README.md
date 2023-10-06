@@ -127,16 +127,20 @@ Promediando todos los puntos de medición y los años se obtiene que la cantidad
 <br>
 De este primer análisis se desprende que la cantidad de colectivos y camiones que generan muertes con relación a sus totales circulando es significativamente mayor a la de autos.
 <br>
-Se define el siguiente KPI para seguimiento:
-Definimos el índice relativo colectivos_autos (C_A_index) como el cociente entre la tasa de accidentes de colectivos y la tasa de accidentes de autos.  
-C_A_index= Tasa de accidentes de colectivos/tasa de accidentes de autos
-donde:
+<br>
+Se define el siguiente KPI para seguimiento:<br>
+<br>
+**Reducción del 30% del índice_colectivo_auto (C_A_index):**
+Donde el indice colectivos_autos (C_A_index) se define como el cociente entre la tasa de accidentes de colectivos y la tasa de accidentes de autos.  
 Tasa de accidentes de autos= accidentes causados por autos/ total autos
 Tasa de accidentes de colectivos= accidentes causados por colectivos/ total colectivos
 
-El valor promedio de este índice dio 20, lo cual significa que la tasa de accidentes por colectivos es 20 mayor a la tasa de accidentes de autos. 
+El valor , lo cual significa que la tasa de accidentes por colectivos es 20 mayor a la tasa de accidentes de autos. 
 
-Si observamos como evoluciono este índice en el tiempo, se ve que  presenta un tendencia de baja. Se establece como KPI una reducción del 30% del índice_auto_camion. En el observauna disminución del 35% en el índice. 
+Si observamos como evoluciono este índice en el tiempo, se ve que  presenta un tendencia de baja. 
+Se establece como KPI una reducción del 30% del índice_auto_camion. 
+
+En el observauna disminución del 35% en el índice. 
 
 
 ### Conclusiones
