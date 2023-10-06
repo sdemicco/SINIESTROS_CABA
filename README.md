@@ -112,15 +112,16 @@ Es importante destacar que la cantidad de accidentes muertes por Autos es simili
 ***
 #### PARTE 3: 
 ***
-El tercer KPI buscar establecer un objetivo  sobre la cantidad de muertes causados  por tipo de vehículo en relación a la cantidad total de vehículos que circulan de este tipo. 
-Por ejemplo en análisis anteriores vimos que la cantidad absoluta de muertes provocadas  por autos fue de 204,  de colectivos 172 y 146 por transporte de cargas. Se encuentras todas en el mismo orden de magnitud.
-Sin embargo la cantidad de autos que circulan es diferente a los colectivos y camiones de carga. 
+El tercer KPI buscar establecer un objetivo  sobre la cantidad de muertes causadas  por tipo de vehículo en relación a la cantidad total de vehículos que circulan de este tipo.<br> 
+Por ejemplo en análisis anteriores vimos que la cantidad absoluta de muertes provocadas  por autos fue de 204,  de colectivos 172 y 146 por transporte de cargas. Se encuentran todas en el mismo orden de magnitud.<br>
+Sin embargo la cantidad de autos que circulan es diferente a los colectivos y camiones de carga.<br> 
 Para poder abordar este análisis se utilizó el dataset que contiene información de conteo de tipo vehículos en diferentes cruces de calles en CABA, en los años 2018 y 2019.  
 Promediando todos los puntos de medición y los años se obtiene que la cantidad de autos por colectivo es de 24,42, mientras la cantidad de autos por camion de carga es de 172.
 De este primer análisis se desprende que la cantidad de colectivos y camiones que generan muertes con relación a sus totales circulando es significativamente mayor a la de autos.
-Definimos el índice relativo colectivos_autos como el cociente entre la tasa de accidentes de colectivos y la tasa de accidentes de autos.  
-IC_A= Tasa de accidentes de colectivos/tasa de accidentes de autos
+Definimos el índice relativo colectivos_autos (C_A_index) como el cociente entre la tasa de accidentes de colectivos y la tasa de accidentes de autos.  
+C_A_index= Tasa de accidentes de colectivos/tasa de accidentes de autos
 Tasa de accidentes de autos= accidentes causados por autos/ total autos
+Tasa de accidentes de colectivos= accidentes causados por colectivos/ total colectivos
 El valor promedio de este índice dio 20, lo cual significa que la tasa de accidentes por colectivos es 20 mayor a la tasa de accidentes de autos. 
 
 Si observamos como evoluciono este índice en el tiempo, se ve que  presenta un tendencia de baja. Se establece como KPI una reducción del 30% del índice_auto_camion. En el observauna disminución del 35% en el índice. 
