@@ -80,10 +80,14 @@ El KPI de reducción de tasa de accidentes viales semestral es ampliamente super
 ***
 
 En las sgunda parte del proyecto se muestran gráficos de evolución de cantidad de muertes discriminado por tipo de víctima (moto, peatón, etc).  También se muestra el tipo de vehículo acusado en el siniestro. Finalmente se complementa el análisis con información de las victimas tal como el sexo y el rango etario.
+<br>
+Se reliza el seguimiento del indicador de rendimiento clave, KIP definido como :
+**Reducción de en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior**
+*nota: Definimos a la cantidad de accidentes mortales de motociclistas en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal. Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100*
+<br>
 Las principales víctimas fatales de accidentes de tránsito son los peatones y  motociclistas. En tercer puesto se encuentran los autos. Se observa que esta relación se mantuvo en todo el periodo estudiado.
-Se propone el indicador de rendimiento clave, KIP definido como :
-Reduccion en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior
-FORMULA
+<br>
+
 
 Al analizar cada categoría por separado puse observarse que hay una tendencia a la baja de accidentes de tránsito para todas las categorías de victimas pero es más marcada en los peatones. 
 En el caso de las victimas motociclistas la tendencia general es de baja en el periodo 2016-2021, Sin embargo en el último año hubo una tendencia de subida. Este comportamiento pude verse reflejado en el no cumplimiento del KPI el cual muestra que hubo un incremento relativo de un 64,29% de victimas de moto en 2021 respecto al año 2020.  Esto es esperable ya que  la cantidad de víctimas en 2020 se vio afectada por la disminución abrupta de circulación en las calles por motivo de la pandemia.
