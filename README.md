@@ -71,7 +71,7 @@ Con respecto al horario de ocurrencia de accidentes, se observa que en horario e
 
 Un punto a tener en cuenta es que si bien el Barrio Flores posee la mayor cantidad de accidentes en el periodo estudiado, también muestra un fuerte decrecimiento de los mismos a partir del segundo trimestre del año 2018.  Analizando particularmente a las victimas peatones, se puede notar que Flores pasó de ser el Barrio con mayor cantidad de homicidios de peatones en los años de 2016, 2017 q 2018 a no tener víctimas peatones en 2021. Esta tendencia es previa a la pandemia. Por lo tanto es recomendable estudiar las medidas que se tomaron en dicho Barrio y replicarlas en otras zonas. 
 - Cantidad de victimas en barrio Flores<br>
-![Evolucion de victimas por accidente BARRIO Flores](cantidad_victimas_flores.png)<br>
+![Evolucion de victimas por accidente BARRIO Flores](assets/cantidad_victimas_flores.png)<br>
 - Cantidad de victimas peatones en barrio Flores <br>
 ![Evolucion de victimas por accidente de peatones BARRIO Flores](assets/cantidad_peatones_flores.png)
 
