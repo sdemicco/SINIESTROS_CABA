@@ -43,67 +43,97 @@ El análisis de las variables categóricas se realizó a partir de gráficos de 
   * El sexo masculino prevalece sobre el femenino en las vitimas fatales.
 
 
-### Proyecto de Analisis de datos
+### 3. Proyecto de Analisis de datos
+
 ***
-El proyecto de análisis de datos puede dividirse en tres partes:
-
 #### PARTE 1:
-
+***
 Esta sección cuenta con información de tendencia de homicidios en el tiempo, ubicación homicidios, tipo de calle, día de la semana y rango horario de los homicidios y el seguimiento del siguiente KPI:
 
 **Reducción en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior**
 
 *nota: Definimos a la tasa de homicidios en siniestros viales como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico. Su fórmula es: (Número de homicidios en siniestros viales / Población total) * 100,000*
 
-![Evolucion de victimas con el tiempo](assets/cantidad_de_victimas.png)
-![Evolucion de victimas con el tiempo](cantidad_victimas_flores.png)
-![Evolucion de victimas con el tiempo](assets/cantidad_de_victimas_peaton_flores.png)
-
 En el gráfico de homicidios por semestre, se observa una tendencia de reducción de accidentes desde el 2016 al 2021. Es importante mencionar que durante el periodo estudiado, durante 2020 ocurrió la pandemia por COVID. Durante ese año bajo fuertemente la circulación de personas en la ciudad , tanto peatones como motorizadas. Luego en 2021, la situación no vuelve a ser la misma que pre_pandemia ya que se instala el hábito del trabajo home-office. 
+
+![Evolucion de victimas con el tiempo](assets/cantidad_de_victimas.png)
+
 
 El Barrio de Flores presentó la mayor cantidad de accidentes ocurridos en los últimos 3 años, seguido por los barrios de Palermo y Balvanera y Belgrano
 En Flores y Palermo el porcentaje de ocurrencia estos accidentes en Avenidas es superior al 95%. En cambio este porcentaje disminuye a un 50% para los Barrios de Balvanera y Belgrano. 
 Con respecto al horario de ocurrencia de accidentes, se observa que en horario entre los 7 a 9 hs ocurren más accidentes que en el resto de los horarios, lo cual puede estar asociado ser hora de circulación pico.
 
 Un punto a tener en cuenta es que si bien el Barrio Flores posee la mayor cantidad de accidentes en el periodo estudiado, también muestra un fuerte decrecimiento de los mismos a partir del segundo trimestre del año 2018.  Analizando particularmente a las victimas peatones, se puede notar que Flores pasó de ser el Barrio con mayor cantidad de homicidios de peatones en los años de 2016, 2017 q 2018 a no tener víctimas peatones en 2021. Esta tendencia es previa a la pandemia. Por lo tanto es recomendable estudiar las medidas que se tomaron en dicho Barrio y replicarlas en otras zonas. 
-
-![Evolucion de victimas por accidente BARRIO Flores](URL_de_la_imagen)
-![Evolucion de victimas por accidente de peatones BARRIO Flores](URL_de_la_imagen)
-
+- Cantidad de victimas en barrio Flores<br>
+![Evolucion de victimas por accidente BARRIO Flores](cantidad_victimas_flores.png)<br>
+- Cantidad de victimas peatones en barrio Flores <br>
+![Evolucion de victimas por accidente de peatones BARRIO Flores](assets/cantidad_peatones_flores.png)
 
 El KPI de reducción de tasa de accidentes viales semestral es ampliamente superado. El KPI objetivo es de un 10% de reducción y se tiene un valor de 23,64%.
+<br>
+<p align="center">
+<img src="assets/KPI_1.png" alt="Texto alternativo" width="250" height="160" /> 
+ <br>
 
-![KPI1](URL_de_la_imagen)
-
+***
 #### PARTE 2: 
+***
 
-Evolución de cantidad de accidentes discriminado por víctima, tipo de vehículo acusado en el siniestro e información de las victimas tal como el sexo y el rango etario.
-En las sgunda parte del proyecto se muestran gráficos de evolución de cantidad de accidentes discriminado por víctima.  También se muestra el tipo de vehículo acusado en el siniestro. Finalmente se complementa el análisis con información de las victimas tal como el sexo y el rango etario.
+Esta sección cuenta con información de  gráficos de evolución de cantidad de muertes discriminado por tipo de víctima (moto, peatón, etc).  También se muestra el tipo de vehículo acusado en el siniestro. Finalmente se complementa el análisis con información de las victimas tal como el sexo y el rango etario.<br>
+<br>
+Se reliza el seguimiento del indicador de rendimiento clave, KIP definido como :<br>
+**Reducción de en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior**<br>
+<br>
+*nota: Definimos a la cantidad de accidentes mortales de motociclistas en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal. Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100* <br>
+<br>
 Las principales víctimas fatales de accidentes de tránsito son los peatones y  motociclistas. En tercer puesto se encuentran los autos. Se observa que esta relación se mantuvo en todo el periodo estudiado.
-Se propone el indicador de rendimiento clave, KIP definido como :
-Reduccion en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior
-FORMULA
+<br>
+<p align="center">
+<img src="assets/muertes_tipo_victima.png" alt="victimas_tipo" width="450" height="360" /> 
+ <br>
+ 
+Al analizar cada categoría por separado puse observarse que hay una tendencia a la baja de accidentes de tránsito para todas las categorías de victimas pero es más marcada en los peatones. <br>
+En el caso de las victimas motociclistas la tendencia general es de baja en el periodo 2016-2021. Sin embargo en el último año hubo una tendencia de subida. Este comportamiento pude verse reflejado en el no cumplimiento del KPI el cual muestra que hubo un incremento relativo de un 64,29% de victimas de moto en 2021 respecto al año 2020.  
 
-Al analizar cada categoría por separado puse observarse que hay una tendencia a la baja de accidentes de tránsito para todas las categorías de victimas pero es más marcada en los peatones. 
-En el caso de las victimas motociclistas la tendencia general es de baja en el periodo 2016-2021, Sin embargo en el último año hubo una tendencia de subida. Este comportamiento pude verse reflejado en el no cumplimiento del KPI el cual muestra que hubo un incremento relativo de un 64,29% de victimas de moto en 2021 respecto al año 2020.  Esto es esperable ya que  la cantidad de víctimas en 2020 se vio afectada por la disminución abrupta de circulación en las calles por motivo de la pandemia.
- Teniendo en cuenta todo el periodo de datos analizado, se observa que predominan las victimas de sexo masculino, representando un 87% de total de víctimas.
-Esta porcentaje se ve reducido para as victimas peatones que posee un porcentaje más equilibrado entre sexos del 61%.  Esto puede tener origen en que la proporción de hombres circulando en autos y motos es superior a la de mujeres. No ocurre los mismo con los peatones. 
+<p align="center">
+<img src="assets/KPI_2.png" alt="Texto alternativo" width="230" height="160" /> 
+ <br>
+
+
+Esto es esperable ya que  la cantidad de víctimas en 2020 se vio afectada por la disminución abrupta de circulación en las calles por motivo de la pandemia.
+Teniendo en cuenta todo el periodo de datos analizado, se observa que predominan las victimas de sexo masculino, representando un 87% de total de víctimas.<br> 
+
+
+Este porcentaje se ve reducido para as victimas peatones que posee un porcentaje más equilibrado entre sexos del 61%.  Esto puede tener origen en que la proporción de hombres circulando en autos y motos es superior a la de mujeres. No ocurre los mismo con los peatones. 
 
 Finalmente se observa que el top 3 de vehículos acusados de cometer homicidios son autos, transporte de pasajeros y transporte de cargas.
 Es importante destacar que la cantidad de accidentes muertes por Autos es similiar a la de los colectivos y transporte de cargas.  Sin embargo las proporciones entre estos vehículos es muy diferente, de este análisis surge el tercer KPI.
 
-
+***
 #### PARTE 3: 
-
-El tercer KPI buscar establecer un objetivo  sobre la cantidad de muertes causados  por tipo de vehículo en relación a la cantidad total de vehículos que circulan de este tipo. 
-Por ejemplo en análisis anteriores vimos que la cantidad absoluta de muertes provocadas  por autos fue de 204,  de colectivos 172 y 146 por transporte de cargas. Se encuentras todas en el mismo orden de magnitud.
-Sin embargo la cantidad de autos que circulan es diferente a los colectivos y camiones de carga. 
+***
+En esta sección del informe se trabaja en la definición de un tercer KPI que busca establecer un objetivo sobre la cantidad de muertes causadas  por tipo de vehículo en relación a la cantidad total de vehículos que circulan de este tipo.<br> 
+<br>
+Por ejemplo en análisis anteriores vimos que la cantidad absoluta de muertes provocadas  por autos fue de 204,  de colectivos 172 y 146 por transporte de cargas. Se encuentran todas en el mismo orden de magnitud.
+Sin embargo la cantidad de autos que circulan es diferente a los colectivos y camiones de carga.<br> 
+<br>
 Para poder abordar este análisis se utilizó el dataset que contiene información de conteo de tipo vehículos en diferentes cruces de calles en CABA, en los años 2018 y 2019.  
+
+
+
+
+
+
 Promediando todos los puntos de medición y los años se obtiene que la cantidad de autos por colectivo es de 24,42, mientras la cantidad de autos por camion de carga es de 172.
 De este primer análisis se desprende que la cantidad de colectivos y camiones que generan muertes con relación a sus totales circulando es significativamente mayor a la de autos.
-Definimos el índice relativo colectivos_autos como el cociente entre la tasa de accidentes de colectivos y la tasa de accidentes de autos.  
-IC_A= Tasa de accidentes de colectivos/tasa de accidentes de autos
+<br>
+Se define el siguiente KPI para seguimiento:
+Definimos el índice relativo colectivos_autos (C_A_index) como el cociente entre la tasa de accidentes de colectivos y la tasa de accidentes de autos.  
+C_A_index= Tasa de accidentes de colectivos/tasa de accidentes de autos
+donde:
 Tasa de accidentes de autos= accidentes causados por autos/ total autos
+Tasa de accidentes de colectivos= accidentes causados por colectivos/ total colectivos
+
 El valor promedio de este índice dio 20, lo cual significa que la tasa de accidentes por colectivos es 20 mayor a la tasa de accidentes de autos. 
 
 Si observamos como evoluciono este índice en el tiempo, se ve que  presenta un tendencia de baja. Se establece como KPI una reducción del 30% del índice_auto_camion. En el observauna disminución del 35% en el índice. 
