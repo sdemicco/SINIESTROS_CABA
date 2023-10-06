@@ -48,7 +48,7 @@ El análisis de las variables categóricas se realizó a partir de gráficos de 
 ***
 El proyecto de análisis de datos puede dividirse en tres partes:
 
-#### PARTE 1: 
+## PARTE 1: 
 
 Información de tendencia de homicidios en el tiempo, ubicación homicidios, tipo de calle, día de la semana y rango horario de los homicidios. <br>
 KPI_TASA_ACCIDENTES: Reducción en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior.
