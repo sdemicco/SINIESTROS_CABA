@@ -48,7 +48,9 @@ El análisis de las variables categóricas se realizó a partir de gráficos de 
 ***
 El proyecto de análisis de datos puede dividirse en tres partes:
 
-#### PARTE 1: Información de tendencia de homicidios en el tiempo, ubicación homicidios, tipo de calle, día de la semana y rango horario de los homicidios. <br>
+#### PARTE 1: 
+
+Información de tendencia de homicidios en el tiempo, ubicación homicidios, tipo de calle, día de la semana y rango horario de los homicidios. <br>
 KPI_TASA_ACCIDENTES: Reducción en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior.
 Siendo: Tasa de homicidios en siniestros viales al número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico, en este caso se toman 6 meses.
 
@@ -70,7 +72,9 @@ El KPI de reducción de tasa de accidentes viales semestral es ampliamente super
 
 ![KPI1](URL_de_la_imagen)
 
-#### PARTE 2: Evolución de cantidad de accidentes discriminado por víctima, tipo de vehículo acusado en el siniestro e información de las victimas tal como el sexo y el rango etario.
+#### PARTE 2: 
+
+Evolución de cantidad de accidentes discriminado por víctima, tipo de vehículo acusado en el siniestro e información de las victimas tal como el sexo y el rango etario.
 En las sgunda parte del proyecto se muestran gráficos de evolución de cantidad de accidentes discriminado por víctima.  También se muestra el tipo de vehículo acusado en el siniestro. Finalmente se complementa el análisis con información de las victimas tal como el sexo y el rango etario.
 Las principales víctimas fatales de accidentes de tránsito son los peatones y  motociclistas. En tercer puesto se encuentran los autos. Se observa que esta relación se mantuvo en todo el periodo estudiado.
 Se propone el indicador de rendimiento clave, KIP definido como :
@@ -86,7 +90,7 @@ Finalmente se observa que el top 3 de vehículos acusados de cometer homicidios 
 Es importante destacar que la cantidad de accidentes muertes por Autos es similiar a la de los colectivos y transporte de cargas.  Sin embargo las proporciones entre estos vehículos es muy diferente, de este análisis surge el tercer KPI.
 
 
-#### PARTE 3: Evolución de cantidad de accidentes discriminado por víctima, tipo de vehículo acusado en el siniestro e información de las victimas tal como el sexo y el rango etario.
+#### PARTE 3: 
 
 El tercer KPI buscar establecer un objetivo  sobre la cantidad de muertes causados  por tipo de vehículo en relación a la cantidad total de vehículos que circulan de este tipo. 
 Por ejemplo en análisis anteriores vimos que la cantidad absoluta de muertes provocadas  por autos fue de 204,  de colectivos 172 y 146 por transporte de cargas. Se encuentras todas en el mismo orden de magnitud.
