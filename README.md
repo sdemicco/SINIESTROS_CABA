@@ -133,8 +133,12 @@ Se define el siguiente KPI para seguimiento:<br>
 **Reducción del 30% del índice_colectivo_auto (C_A_index):**<br>
 Donde el indice colectivos_autos (C_A_index) se define como:<br>
 C_A_index =  tasa de accidentes de colectivos/la tasa de accidentes de autos.  
-* Tasa de accidentes de autos= accidentes causados por autos/ total autos.<br>
-* Tasa de accidentes de colectivos= accidentes causados por colectivos/ total colectivos.*
+*Tasa de accidentes de autos= accidentes causados por autos/ total autos.<br>*
+*Tasa de accidentes de colectivos= accidentes causados por colectivos/ total colectivos.*
+<br>
+En el siguiente gráfico se muestra la evolución de C_A_index en el preíodo estudiado
+El valor promedio de C_A_index en todo el periodo es aproximadamente 20, lo cual indicaria que la canitdad de muertes por colectivos sobre el total de colectivos y 20 mayor a la cantidad de muertes que genera un autos sobre el total de autos.
+Este analisis presenta un fuerte punto de focalizacion de esfuerzo de mejora focalizandose en la reduccion de accidentes ocacionados por transporte de pasajeros. 
 <p align="center">
 <img src="assets/evolución_c_a_index.png" alt="c_a_index" width="600" height="200" /> 
  <br>
