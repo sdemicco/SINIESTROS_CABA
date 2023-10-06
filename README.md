@@ -155,5 +155,18 @@ Este indice presenta una tendencia de baja con el tiempo y puede observarse que 
 <img src="assets/KPI_c_a_index.png" alt="kpi_c_a_index" width="230" height="160" /> 
  <br>
 
-### Conclusiones
-***
+### 4. Conclusiones
+
+Calidad de los Datos: Los datos utilizados en el análisis tenían una  buena calidad, con pocos valores nulos o duplicados. Esto es esencial para obtener resultados precisos en el análisis de datos.
+
+Tendencia a la Baja de Accidentes: Se observa una tendencia general a la baja en la cantidad de accidentes de tránsito con víctimas fatales a lo largo del período estudiado. Sin embargo, es importante tener en cuenta la influencia de la pandemia de COVID-19, sobre esta tendencia.
+
+Focalización de Esfuerzos: El análisis identifica áreas específicas de enfoque para mejorar la seguridad vial. Por ejemplo, el Barrio de Flores muestra una disminución notable en la cantidad de accidentes fatales de peatones, lo que sugiere que las medidas implementadas en ese barrio pueden ser un modelo para otras áreas. El análisis indice C_A_index, tambien apunta al area de transporte de pasajeros como una area con posibilidad de mejora considerando que posee una tasa de participacion de accidentes muy superior a la de los autos. Queda pendiente, como analisis futuro repetir este analisis con el transporte de carga, que tanmbien presenta posibildiades de mejora. 
+
+Desafío en la Reducción de Muertes de Motociclistas: A pesar de la tendencia general a la baja en los accidentes, se observa un aumento en los accidentes fatales de motociclistas en el último año del período estudiado. Esto plantea un desafío en la reducción de muertes de motociclistas y sugiere la necesidad de medidas específicas para abordar este problema.
+
+Desigualdad de Género: Los datos muestran que la mayoría de las víctimas son hombres, lo que podría indicar diferencias en los patrones de circulación y comportamiento de género en el tráfico.
+
+Cumplimiento de KPIs: El informe muestra que se han cumplido los indicadores de rendimiento clave (KPIs) definidos para la reducción de tasas de homicidios y accidentes mortales de motociclistas, pero no se cumplió el KPI relacionado con el índice colectivos_autos (C_A_index).
+
+.
