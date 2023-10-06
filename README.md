@@ -53,6 +53,11 @@ Siendo: Tasa de homicidios en siniestros viales al número de víctimas fatales 
 
 ![graficos](URL_de_la_imagen)
 
+En el gráfico de homicidios por semestre, se observa una tendencia de reducción de accidentes desde el 2016 al 2021. Es importante mencionar que durante el periodo estudiado, durante 2020 ocurrió la pandemia por COVID. Durante ese año bajo fuertemente la circulación de personas en la ciudad , tanto peatones como motorizadas. Luego en 2021, la situación no vuelve a ser la misma que pre_pandemia ya que se instala el hábito del trabajo home-office. 
+
+
+![graficos](URL_de_la_imagen)
+
 
 
 
