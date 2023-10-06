@@ -134,20 +134,16 @@ Se define el siguiente KPI para seguimiento:<br>
 Donde el indice colectivos_autos (C_A_index) se define como:<br>
 C_A_index =  tasa de accidentes de colectivos/la tasa de accidentes de autos.  
 *Tasa de accidentes de autos= accidentes causados por autos/ total autos.<br>*
-*Tasa de accidentes de colectivos= accidentes causados por colectivos/ total colectivos.*
+*Tasa de accidentes de colectivos= accidentes causados por colectivos/ total colectivos.*<br>
 <br>
-En el siguiente gráfico se muestra la evolución de C_A_index en el preíodo estudiado
-El valor promedio de C_A_index en todo el periodo es aproximadamente 20, lo cual indicaria que la canitdad de muertes por colectivos sobre el total de colectivos y 20 mayor a la cantidad de muertes que genera un autos sobre el total de autos.
-Este analisis presenta un fuerte punto de focalizacion de esfuerzo de mejora focalizandose en la reduccion de accidentes ocacionados por transporte de pasajeros. 
+En el siguiente gráfico se muestra la evolución de C_A_index en el preíodo estudiado.
+El valor promedio de C_A_index en todo el periodo es aproximadamente 20, lo cual indicaria que la canitdad de muertes por colectivos sobre el total de colectivos es 20 veces mayor a la cantidad de muertes que genera un auto sobre el total de autos circulando.
+Este analisis presenta un fuerte punto de focalizacion de esfuerzo de mejora direccinado al transporte de pasajeros. 
 <p align="center">
 <img src="assets/evolución_c_a_index.png" alt="c_a_index" width="600" height="200" /> 
  <br>
 
 
-El valor , lo cual significa que la tasa de accidentes por colectivos es 20 mayor a la tasa de accidentes de autos. 
-
-Si observamos como evoluciono este índice en el tiempo, se ve que  presenta un tendencia de baja. 
-Se establece como KPI una reducción del 30% del índice_auto_camion. 
 
 En el observauna disminución del 35% en el índice. 
 
