@@ -56,7 +56,8 @@ Esta sección cuenta con información de tendencia de homicidios en el tiempo, u
 *nota: Definimos a la tasa de homicidios en siniestros viales como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico. Su fórmula es: (Número de homicidios en siniestros viales / Población total) * 100,000*
 
 ![Evolucion de victimas con el tiempo](assets/cantidad_de_victimas.png)
-![Evolucion de victimas con el tiempo](assets/cantidad_de_victimas.png)
+![Evolucion de victimas con el tiempo](assets/cantidad_de_victimas_flores.png)
+![Evolucion de victimas con el tiempo](assets/cantidad_de_victimas_peaton_flores.png)
 
 En el gráfico de homicidios por semestre, se observa una tendencia de reducción de accidentes desde el 2016 al 2021. Es importante mencionar que durante el periodo estudiado, durante 2020 ocurrió la pandemia por COVID. Durante ese año bajo fuertemente la circulación de personas en la ciudad , tanto peatones como motorizadas. Luego en 2021, la situación no vuelve a ser la misma que pre_pandemia ya que se instala el hábito del trabajo home-office. 
 
