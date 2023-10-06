@@ -88,11 +88,19 @@ Se reliza el seguimiento del indicador de rendimiento clave, KIP definido como :
 <br>
 Las principales víctimas fatales de accidentes de tránsito son los peatones y  motociclistas. En tercer puesto se encuentran los autos. Se observa que esta relación se mantuvo en todo el periodo estudiado.
 <br>
-
-![Evolucion de victimas con el tiempo](assets/muertes_tipo_victima.png)
-<>br
+<p align="center">
+<img src="assets/muertes_tipo_victima.png" alt="victimas_tipo" width="450" height="360" /> 
+ <br>
+ 
 Al analizar cada categoría por separado puse observarse que hay una tendencia a la baja de accidentes de tránsito para todas las categorías de victimas pero es más marcada en los peatones. <br>
-En el caso de las victimas motociclistas la tendencia general es de baja en el periodo 2016-2021, Sin embargo en el último año hubo una tendencia de subida. Este comportamiento pude verse reflejado en el no cumplimiento del KPI el cual muestra que hubo un incremento relativo de un 64,29% de victimas de moto en 2021 respecto al año 2020.  Esto es esperable ya que  la cantidad de víctimas en 2020 se vio afectada por la disminución abrupta de circulación en las calles por motivo de la pandemia.
+En el caso de las victimas motociclistas la tendencia general es de baja en el periodo 2016-2021. Sin embargo en el último año hubo una tendencia de subida. Este comportamiento pude verse reflejado en el no cumplimiento del KPI el cual muestra que hubo un incremento relativo de un 64,29% de victimas de moto en 2021 respecto al año 2020.  
+
+<p align="center">
+<img src="assets/KPI_2.png" alt="Texto alternativo" width="230" height="160" /> 
+ <br>
+
+
+Esto es esperable ya que  la cantidad de víctimas en 2020 se vio afectada por la disminución abrupta de circulación en las calles por motivo de la pandemia.
 Teniendo en cuenta todo el periodo de datos analizado, se observa que predominan las victimas de sexo masculino, representando un 87% de total de víctimas.<br> 
 
 
