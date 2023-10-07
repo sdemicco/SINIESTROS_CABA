@@ -29,6 +29,7 @@ Límites y ubicación geográfica de los barrios de la Ciudad.
  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
  ![Pandas](	https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+ ![Geopandas](https://img.shields.io/badge/GeoPandas-74aa9c?style=for-the-badge&logo=geopandas&logoColor=white)
  <br>
 EDA:point_right: [link](EDA/EDA_T2_final.ipynb)<br>
 Los datos de homicidios viales tenían una buena calidad, no presentaban valores duplicados ni nulos. Contenían una categoría SD para los registros ‘sin dato’, los cuales representaban una proporción muy baja respecto a la totalidad de datos. En algunos casos se pudieron corregir valores utilizando la información de datos de otras columnas.
