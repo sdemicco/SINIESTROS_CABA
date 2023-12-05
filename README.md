@@ -166,3 +166,7 @@ Este indice presenta una tendencia de baja con el tiempo y puede observarse que 
 
 * Cumplimiento de KPIs: El informe muestra que se han cumplido los indicadores de rendimiento clave (KPIs) relacionados con la tasa de accidentes por habitante y el relacionado con la reducción del indicador C_A_index. Sin embargo, no se cumplió el KPI relacionado con la reducción accidentes mortales de motociclistas.
 
+
+### 4. Enlace al tablero
+
+[Enlace al tablero](https://app.powerbi.com/view?r=eyJrIjoiNmVlNzdiMzItNWZjMy00MTFjLTgyYWEtMTI3YzU5NTRhOGU5IiwidCI6IjM0ODg3YWYzLTI0NzUtNDE5MS1iOTMwLTAzMWZhMTNkM2FjMSIsImMiOjR9&pageName=ReportSection76cf24a0d41ad6e80a389)
