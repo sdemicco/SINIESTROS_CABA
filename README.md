@@ -4,7 +4,8 @@ La cantidad de muertes causadas por accidentes de tránsito en Argentina es un a
 
 Para tomar decisiones efectivas en este campo, es fundamental contar con un sólido análisis de datos. El acceso y la interpretación de información precisa sobre los siniestros viales y sus causas son elementos esenciales para diseñar estrategias y políticas de seguridad vial efectivas que puedan contribuir a la reducción de estos incidentes.
 
-En este contexto, mi labor se centró en la elaboración de un proyecto de anális de datos, con el fin de generar información que le permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales en CABA. 
+En este contexto, mi labor se centró en la elaboración de un proyecto de anális de datos, en un dashboard Powerbi, con el fin de generar información que le permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales en CABA. 
+
 
 ### 1.	Fuente de Datos:
 ***
