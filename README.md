@@ -50,6 +50,10 @@ El análisis de las variables categóricas se realizó a partir de gráficos de 
 ### 3. Proyecto de análisis de datos
 ![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badge)
 ***
+A continuación se presenta la descripción de cada una de las secciones incluidas en el dashboard:
+
+[link al dashboard](https://github.com/sdemicco/SINIESTROS_CABA/tree/main)
+
 #### PARTE 1:
 ***
 Esta sección cuenta con información de tendencia de homicidios en el tiempo, ubicación de homicidios, tipo de calle, día de la semana y rango horario de los homicidios y el seguimiento del siguiente KPI:
