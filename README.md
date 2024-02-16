@@ -14,14 +14,16 @@ Datos públicos generados, guardados y publicados por el Gobierno de la Ciudad d
 > Dataset principal:<br>
 - Archivo ‘Homicidios (XLSX)’:
 Información sobre Homicidios y Lesiones en siniestros viales ocurridos en la Ciudad.
-:point_right: [link](Notebooks/https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales) 
+👉
+[link](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales)
+
 >Datasets complementarios: 
 -	Conteo Vehicular.csv: 
 Información de conteo sobre el paso de vehículos en diferentes cruces de calles de la Ciudad.
-:point_right: [link](Notebooks/https://data.buenosaires.gob.ar/dataset/conteo-vehicular) 
+ 👉 [link](https://data.buenosaires.gob.ar/dataset/conteo-vehicular) 
 - Barrios.csv:
 Límites y ubicación geográfica de los barrios de la Ciudad.
-:point_right: [link](https://data.buenosaires.gob.ar/dataset/barrios)
+👉 [link](https://data.buenosaires.gob.ar/dataset/barrios)
 ***
 
 ### 2.	Analisis exploratorio de datos:
