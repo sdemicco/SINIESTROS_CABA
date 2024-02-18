@@ -177,3 +177,8 @@ Este indice presenta una tendencia de baja con el tiempo y puede observarse que 
 ### 4. Enlace al tablero
 
 [Enlace al tablero](https://app.powerbi.com/view?r=eyJrIjoiMzcxZTllNjktYmEzNC00NTIxLWIxYjUtZTI2OGNmNjdhNmVjIiwidCI6IjM0ODg3YWYzLTI0NzUtNDE5MS1iOTMwLTAzMWZhMTNkM2FjMSIsImMiOjR9&pageName=ReportSection76cf24a0d41ad6e80a38)
+
+
+### 4. Video 🎥
+
+[VIDEO](https://youtu.be/IFjJbS-8RVE)
