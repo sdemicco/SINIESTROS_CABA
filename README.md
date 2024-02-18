@@ -50,11 +50,11 @@ El análisis de las variables categóricas se realizó a partir de gráficos de 
 
 
 ### 3. Proyecto de análisis de datos
-![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badge)
+![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badg)
 ***
 A continuación se presenta la descripción de cada una de las secciones incluidas en el dashboard:
 
-[link al dashboard](https://github.com/sdemicco/SINIESTROS_CABA/tree/main)
+[link al dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzcxZTllNjktYmEzNC00NTIxLWIxYjUtZTI2OGNmNjdhNmVjIiwidCI6IjM0ODg3YWYzLTI0NzUtNDE5MS1iOTMwLTAzMWZhMTNkM2FjMSIsImMiOjR9&pageName=ReportSection76cf24a0d41ad6e80a38)
 
 #### PARTE 1:
 ***
